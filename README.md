@@ -931,6 +931,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Scout](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 * [TraceView](https://github.com/appneta/ruby-traceview) - Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
+* [Yabeda](https://github.com/yabeda-rb/yabeda) - Extendable framework for collecting and exporting metrics from your Ruby application
 
 ## Presentation Programs
 
